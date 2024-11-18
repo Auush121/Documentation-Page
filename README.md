@@ -17,11 +17,6 @@ This project is a simple documentation webpage about JavaScript. It consists of 
 - Responsive Design
     - Media Queries: Designed to adjust the layout for smaller screens.
     - Mobile-Friendly: The navigation bar and main content are optimized for usability on mobile devices.
-- Code Formatting
-    - Code Blocks: Syntax-highlighted examples using <code> elements with appropriate styles.
-
-
 ## Tech Stack
-
 - HTML: For the webpage structure and content.
 - CSS: For styling and responsive design
